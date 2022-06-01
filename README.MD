@@ -22,3 +22,6 @@ example shown on javascript
 import { draw } from "./bigL/javascript/bigL";
 draw()
 ```
+## credits
+* intervinn for making versions in javascript, python, typescript and dart
+* shabman for making versions in c#, c, c++, java and haxe

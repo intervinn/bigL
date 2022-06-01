@@ -13,4 +13,3 @@ function draw()
     end
 end
 
-draw()

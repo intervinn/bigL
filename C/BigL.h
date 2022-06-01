@@ -4,6 +4,9 @@
 #include <string.h>
 #include <stdlib.h>
 
+#ifndef BIG_L_CH
+#define BIG_L_CH
+
 #define MAX INT_MAX
 #define LETTER "L"
 
@@ -39,6 +42,4 @@ void draw(void) {
     free(c);
 }
 
-int main(void) {
-    draw();
-}
+#endif

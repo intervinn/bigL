@@ -24,4 +24,4 @@ draw()
 ```
 ## credits
 * intervinn for making versions in javascript, python, typescript and dart
-* shabman for making versions in c#, c, c++, java and haxe
+* shabman for making versions in c#, c, c++, java, lua and haxe

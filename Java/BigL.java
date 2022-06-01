@@ -2,7 +2,7 @@ package me.shab.project;
 
 public class BigL {
 	
-	private static final int MAX = 500;
+	private static final int MAX = Integer.MAX_VALUE;
 	private static final String LETTER = "L";
 	
 	public static void main(String[] args) {

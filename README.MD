@@ -6,4 +6,11 @@ program that prints big L in terminal in different programming languages
 * javascript
 * c++
 
-to use clone the repository and import package with the lang u need
+# usage
+clone the repository and import draw() method from folder named after the language you use
+
+example shown on javascript
+```js
+import { draw } from "./bigL/javascript/write";
+draw()
+```

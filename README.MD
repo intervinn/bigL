@@ -1,6 +1,8 @@
 # bigL
 program that prints big L in terminal but written in different programming languages
 
+L is so big that its sizes are based on maximum int32 value
+
 ## currently made in:
 * python
 * javascript

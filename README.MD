@@ -7,6 +7,12 @@ L is so big that its sizes are based on maximum int32 value
 * python
 * javascript
 * c++
+* haxe
+* typescript (calling js can cause compiler issues soooo)
+* lua
+* java
+* c#
+* c
 
 # usage
 clone the repository and import draw() method from folder named after the language you use

@@ -33,7 +33,3 @@ void draw() {
 		std::cout << (std::string("L") * cwidth) << "\n";
 	}
 }
-
-int main() {
-	draw();
-}

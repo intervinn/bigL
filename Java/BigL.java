@@ -5,10 +5,6 @@ public class BigL {
 	private static final int MAX = Integer.MAX_VALUE;
 	private static final String LETTER = "L";
 	
-	public static void main(String[] args) {
-		draw();
-	}
-	
 	private static void draw() {
 		int width = (int) Math.floor(MAX / 20);
 		for (int i = 0; i < width; i++) {

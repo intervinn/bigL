@@ -12,3 +12,5 @@ function draw()
         print(string.rep(LETTER, cwidth).."\n")
     end
 end
+
+draw()

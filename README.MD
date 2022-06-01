@@ -13,6 +13,7 @@ L is so big that its sizes are based on maximum int32 value
 * java
 * c#
 * c
+* dart
 
 # usage
 clone the repository and import draw() method from folder named after the language you use

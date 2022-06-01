@@ -8,7 +8,7 @@ fn main() {
   }
 
   let com2width = num / 5 ;
-  let com2height =num / 50;
+  let com2height = num / 50;
 
   for  _ in 0..com2height {
     println!("{}","L" .repeat(com2width));

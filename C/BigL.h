@@ -4,11 +4,11 @@
 #include <string.h>
 #include <stdlib.h>
 
-#ifndef BIG_L_CH
-#define BIG_L_CH
-
 #define MAX INT_MAX
 #define LETTER "L"
+
+#ifndef BIG_L_CH
+#define BIG_L_CH
 
 char* mulstr(char* str, size_t i) {
     size_t len = strlen(str);

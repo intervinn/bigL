@@ -6,12 +6,15 @@
 // Description : Draw the largest L using the max int32 value to the terminal.
 //============================================================================
 
+#define MAX INT_MAX
+#define LETTER "L"
+
+#ifndef BIG_L_PROJ
+#define BIGL_PROJ
+
 #include <iostream>
 #include <climits>
 #include <cmath>
-
-#define MAX INT_MAX
-#define LETTER "L"
 
 std::string operator*(const std::string& s, size_t n) {
     std::string result;
@@ -34,6 +37,4 @@ void draw() {
 	}
 }
 
-int main() {
-	draw();
-}
+#endif

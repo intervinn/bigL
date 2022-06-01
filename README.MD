@@ -4,25 +4,34 @@ program that prints big L in terminal but written in different programming langu
 L is so big that its sizes are based on maximum int32 value
 
 ## currently made in:
-* python
-* javascript
-* c++
-* haxe
-* typescript
-* lua
-* java
-* c#
-* c
-* dart
+* Python
+* Javascript
+* C++
+* Haxe
+* Typescript
+* Lua
+* Java
+* C#
+* C
+* Dart
 
 # usage
 clone the repository and import draw() method from folder named after the language you use
 
-example shown on javascript
+Example shown on JavaScript
 ```js
 import { draw } from "./bigL/javascript/bigL";
 draw()
 ```
+
+Example shown on C++
+```cpp
+#include "BigL.h"
+
+int main() {
+  draw();
+}
+
 ## credits
-* intervinn for making versions in javascript, python, typescript and dart
-* shabman for making versions in c#, c, c++, java, lua and haxe
+* intervinn for making versions in JavaScript, Python, Typescript and Dart
+* shabman for making versions in C# C, C++, Java, lua and haxe

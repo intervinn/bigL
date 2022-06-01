@@ -1,7 +1,7 @@
 import math
 
 def draw() -> None:
-    num: int = 1870
+    num: int = 2147483647
 
     com1width: int = math.floor(num / 20)
     for _ in range(0, num):

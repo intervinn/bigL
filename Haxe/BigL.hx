@@ -5,10 +5,6 @@ class BigL {
     private static final MAX = 2147483647;
     private static final LETTER = "L";
 
-    public static function main() {
-        draw();
-    }
-
     public static function draw() {
         var width = Math.floor(cast (MAX, Float) / 20);
         for (i in 0...width) {

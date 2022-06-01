@@ -13,6 +13,6 @@ clone the repository and import draw() method from folder named after the langua
 
 example shown on javascript
 ```js
-import { draw } from "./bigL/javascript/write";
+import { draw } from "./bigL/javascript/bigL";
 draw()
 ```

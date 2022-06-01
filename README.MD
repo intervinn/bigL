@@ -8,7 +8,7 @@ L is so big that its sizes are based on maximum int32 value
 * javascript
 * c++
 * haxe
-* typescript (calling js can cause compiler issues soooo)
+* typescript
 * lua
 * java
 * c#

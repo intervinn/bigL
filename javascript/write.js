@@ -1,4 +1,7 @@
 export function draw() {
+    
+    const num = 2147483647
+    
     let com1width = Math.floor(num / 10);
     for (let i = 0; i < num; i++) {
         console.log("L".repeat(com1width));

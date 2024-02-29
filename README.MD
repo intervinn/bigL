@@ -38,3 +38,4 @@ int main() {
 * intervinn for making versions in JavaScript, Python, Typescript and Dart
 * shabman for making versions in C# C, C++, Java, lua and haxe
 * DevHyperCoder for making version in Rust
+* Trimpta for making version in brainfuck and html-css

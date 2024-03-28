@@ -35,8 +35,8 @@ int main() {
 ```
 
 # Credits
-* intervinn for making versions in JavaScript, Python, Typescript and Dart
-* shabman for making versions in C# C, C++, Java, lua and haxe
+* intervinn for making versions in JavaScript, Python, TypeScript, Nim and Dart
+* shabman for making versions in C# C, C++, Java, Lua and Haxe
 * DevHyperCoder for making version in Rust
 * Trimpta for making version in brainfuck and html-css
 * markussdemidovs for making version in Ruby

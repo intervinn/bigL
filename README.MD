@@ -1,8 +1,6 @@
 # bigL
-program that prints big L in terminal but written in different programming languages
-
-L is so big that its sizes are based on maximum int32 value
-
+A simple program that prints big letter L in stdout written in multiple programming language.
+L itself is based on a maximum value of 32-bit integer, but it is divided twice, thrice or ten times to keep the shape of L that you are unlike to witness anyway.
 ## currently made in:
 * Python
 * Javascript
@@ -15,9 +13,11 @@ L is so big that its sizes are based on maximum int32 value
 * C
 * Dart
 * Rust
+* Ruby
+* Nim
 
 # usage
-clone the repository and import draw() method from folder named after the language you use
+Some programs are implemented to be ran and some are an importable function.
 
 Example shown on JavaScript
 ```js
@@ -34,7 +34,7 @@ int main() {
 }
 ```
 
-## credits
+# Credits
 * intervinn for making versions in JavaScript, Python, Typescript and Dart
 * shabman for making versions in C# C, C++, Java, lua and haxe
 * DevHyperCoder for making version in Rust
